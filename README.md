@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajneesh-upadhyay576.
+- 👋 Hi, I’m @rajneesh-co.
 - 👀 I’m interested in front-end develop.
 - 🌱 I’m currently learning Javascript.
 - 📫 How to reach me rajneeshupadhyay061@gmail.com

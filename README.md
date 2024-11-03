@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajneesh-co.
-- 👀 I’m interested in front-end develop.
-- 🌱 I’m currently learning Javascript.
+- 👀 I’m interested in Data Analysts .
+- 🌱 I’m currently learning Microsoft Learning .
 - 📫 How to reach me rajneeshupadhyay061@gmail.com
 
 
